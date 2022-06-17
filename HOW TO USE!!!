@@ -1,0 +1,26 @@
+# i3-gaps dynamic window manager config file by DYAKSATECH #
+
+################################################################
+#                                                              #
+# ______   __ _    _  ______    _      _____ _____ ____ _   _  #
+# |  _ \ \ / // \  | |/ / ___|  / \    |_   _| ____/ ___| | | |#
+# | | | \ V // _ \ | ' /\___ \ / _ \     | | |  _|| |   | |_| |#
+# | |_| || |/ ___ \| . \ ___) / ___ \    | | | |__| |___|  _  |#
+# |____/ |_/_/   \_\_|\_\____/_/   \_\   |_| |_____\____|_| |_|#
+#                                                              #
+################################################################
+
+Be sure to subscribe at my channel on youtube!
+
+First, be sure to install all the software that are listed in the i3/config file. Especially the "Startup Programs" Section
+Also Don't forget to install necessary dependecies for the packages or components
+
+After that, to use the config you need to show the hidden files first
+To show the hidden files just press CTRL+H or check the "Show hidden files" in your file manager
+
+After that, just copy or cut the 3 config folder (i3, compton, .conky) folder to your ~/.config directory
+Then just reload your i3-gaps config by pressing MOD+Shift+r
+
+And, here you go you just have my i3-gaps config files in your Linux
+ 
+
