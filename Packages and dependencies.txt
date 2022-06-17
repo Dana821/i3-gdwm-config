@@ -1,0 +1,26 @@
+This i3-gdwm config files requires a lot of packages that has to be installed, so that can be run smoothly.
+
+List of packages that MUST be installed for this config are:
+
+- Python
+- nm-applet
+- volumeicon
+- pcmanfm
+- compton
+- nitrogen
+- conky
+- lxpolkit
+- powerline (including fonts)
+- xfce4-terminal (or your fav terminal emulators like rxvt or kitty)
+- mpv
+- dmenu
+- rofi
+- ulauncher
+- pactl
+- pulseaudio
+
+That's it, also don't forget to install necessary fonts like "SF Pro Display" family fonts
+
+Some of the components are need to install manually, don't worry because all of the files are being included, just compile it and You are done!
+
+If there are few missing packages or not included, I'm sorry. You can read the entire i3 config file for clear explanation about packages.
