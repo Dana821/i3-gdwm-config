@@ -20,6 +20,7 @@ After that, to use the config you need to show the hidden files first
 To show the hidden files just press CTRL+H or check the "Show hidden files" in your file manager
 
 After that, just copy or cut the 3 config folder (i3, compton, .conky) folder to your ~/.config directory
+Also, if you want some themes just copy themes and icons folder to your home directory
 Then just reload your i3-gaps config by pressing MOD+Shift+r
 
 And, here you go you just have my i3-gaps config files in your Linux
