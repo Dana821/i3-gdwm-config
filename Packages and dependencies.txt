@@ -18,6 +18,7 @@ List of packages that MUST be installed for this config are:
 - ulauncher
 - pactl
 - pulseaudio
+- lxappearance
 
 That's it, also don't forget to install necessary fonts like "SF Pro Display" family fonts
 
